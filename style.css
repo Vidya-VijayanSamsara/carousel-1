@@ -35,7 +35,6 @@ body{
 }
 
 .card .box.front{
-    background: url(pattern.jpg);
     background-repeat: no-repeat;
     background-position:  center;
     object-fit: contain;
